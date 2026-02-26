@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/uzearsheikh/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/uzearsheikh/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
