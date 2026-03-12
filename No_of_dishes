@@ -1,0 +1,30 @@
+from collections import defaultdict
+
+T = int(input())
+
+for _ in range(T):
+
+    n = int(input())
+    arr = list(map(int,input().split()))
+
+    count = defaultdict(int)
+    last = {}
+
+    for i in range(n):
+
+        x = arr[i]
+
+        if x not in last or i != last[x] + 1:
+            count[x] += 1
+            last[x] = i
+
+    best_type = float('inf')
+    best_count = -1
+
+    for t in count:
+
+        if count[t] > best_count or (count[t] == best_count and t < best_type):
+            best_count = count[t]
+            best_type = t
+
+    print(best_type)
