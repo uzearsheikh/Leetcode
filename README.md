@@ -115,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/uzearsheikh/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/uzearsheikh/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
