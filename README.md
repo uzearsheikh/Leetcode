@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uzearsheikh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/uzearsheikh/Leetcode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/uzearsheikh/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/uzearsheikh/Leetcode/tree/master/0274-h-index) |
 | [0518-coin-change-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0518-coin-change-ii) |
+| [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1052-grumpy-bookstore-owner](https://github.com/uzearsheikh/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
@@ -89,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/uzearsheikh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/uzearsheikh/Leetcode/tree/master/0274-h-index) |
+| [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/uzearsheikh/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting Sort
 |  |
