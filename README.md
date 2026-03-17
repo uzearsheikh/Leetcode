@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/uzearsheikh/Leetcode/tree/master/0274-h-index) |
 | [0518-coin-change-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0518-coin-change-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/uzearsheikh/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/uzearsheikh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/uzearsheikh/Leetcode/tree/master/0274-h-index) |
+| [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/uzearsheikh/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting Sort
 |  |
 | ------- |
