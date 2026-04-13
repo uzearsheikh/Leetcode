@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/uzearsheikh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uzearsheikh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/uzearsheikh/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
 ## String
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/uzearsheikh/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/uzearsheikh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/uzearsheikh/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
 ## Memoization
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/uzearsheikh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/uzearsheikh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzearsheikh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/uzearsheikh/Leetcode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
 ## Prefix Sum
