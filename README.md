@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/uzearsheikh/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/uzearsheikh/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/uzearsheikh/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/uzearsheikh/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/uzearsheikh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uzearsheikh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -205,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/uzearsheikh/Leetcode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/uzearsheikh/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/uzearsheikh/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
