@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/uzearsheikh/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/uzearsheikh/Leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/uzearsheikh/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/uzearsheikh/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/uzearsheikh/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/uzearsheikh/Leetcode/tree/master/0066-plus-one) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/uzearsheikh/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/uzearsheikh/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
