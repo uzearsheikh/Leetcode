@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/uzearsheikh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/uzearsheikh/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0205-isomorphic-strings](https://github.com/uzearsheikh/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/uzearsheikh/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uzearsheikh/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzearsheikh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/uzearsheikh/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/uzearsheikh/Leetcode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
 ## Prefix Sum
