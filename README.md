@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/uzearsheikh/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/uzearsheikh/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/uzearsheikh/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/uzearsheikh/Leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/uzearsheikh/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/uzearsheikh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/uzearsheikh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/uzearsheikh/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/uzearsheikh/Leetcode/tree/master/0274-h-index) |
 | [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/uzearsheikh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/uzearsheikh/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/uzearsheikh/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/uzearsheikh/Leetcode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
 ## Prefix Sum
