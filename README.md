@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/uzearsheikh/Leetcode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/uzearsheikh/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/uzearsheikh/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uzearsheikh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/uzearsheikh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
 ## String
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/uzearsheikh/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzearsheikh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Sorting
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/uzearsheikh/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/uzearsheikh/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/uzearsheikh/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Graph Theory
 |  |
 | ------- |
