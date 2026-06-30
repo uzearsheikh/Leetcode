@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/uzearsheikh/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/uzearsheikh/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/uzearsheikh/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/uzearsheikh/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Design
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/uzearsheikh/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/uzearsheikh/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/uzearsheikh/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Array
 |  |
