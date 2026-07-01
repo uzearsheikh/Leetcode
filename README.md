@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/uzearsheikh/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/uzearsheikh/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/uzearsheikh/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Array
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/uzearsheikh/Leetcode/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/uzearsheikh/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0518-coin-change-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/uzearsheikh/Leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting Sort
 |  |
