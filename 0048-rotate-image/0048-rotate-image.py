@@ -1,29 +1,28 @@
 class Solution:
     def rotate(self, matrix: List[List[int]]) -> None:
+
         l, r = 0, len(matrix) - 1
 
         while l < r:
 
-            for i in range(l, r):
+            for i in range(r - l):
 
-                offset = i - l
-                top = l
-                bottom = r
+                top, bottom = l, r
 
-                # save top-left
-                topLeft = matrix[top][i]
+                # Save top-left
+                topLeft = matrix[top][l + i]
 
-                # bottom-left -> top-left
-                matrix[top][i] = matrix[bottom - offset][l]
+                # Bottom-left -> Top-left
+                matrix[top][l + i] = matrix[bottom - i][l]
 
-                # bottom-right -> bottom-left
-                matrix[bottom - offset][l] = matrix[bottom][r - offset]
+                # Bottom-right -> Bottom-left
+                matrix[bottom - i][l] = matrix[bottom][r - i]
 
-                # top-right -> bottom-right
-                matrix[bottom][r - offset] = matrix[i][r]
+                # Top-right -> Bottom-right
+                matrix[bottom][r - i] = matrix[top + i][r]
 
-                # top-left -> top-right
-                matrix[i][r] = topLeft
+                # Saved Top-left -> Top-right
+                matrix[top + i][r] = topLeft
 
             l += 1
             r -= 1
