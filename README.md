@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/uzearsheikh/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/uzearsheikh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/uzearsheikh/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/uzearsheikh/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/uzearsheikh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/uzearsheikh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/uzearsheikh/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/uzearsheikh/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/uzearsheikh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/uzearsheikh/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/uzearsheikh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
