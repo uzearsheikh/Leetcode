@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/uzearsheikh/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/uzearsheikh/Leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Depth-First Search
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/uzearsheikh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/uzearsheikh/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/uzearsheikh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/uzearsheikh/Leetcode/tree/master/0841-keys-and-rooms) |
 ## String Matching
 |  |
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/uzearsheikh/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0064-minimum-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
