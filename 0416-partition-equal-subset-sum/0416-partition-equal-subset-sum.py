@@ -13,7 +13,7 @@ class Solution:
         if i == len(nums):
             return False
 
-        if dp[i][tot] != -1:
+        if dp[i][tot] is not None:
             return dp[i][tot]
 
         take = self.rec(i + 1, nums, tot + nums[i], dp, target)
@@ -33,6 +33,6 @@ class Solution:
 
         target = total // 2
 
-        dp = [[-1] * (target + 1) for _ in range(len(nums) + 1)]
+        dp = [[None] * (target + 1) for _ in range(len(nums) + 1)]
 
         return self.rec(0, nums, 0, dp, target)
