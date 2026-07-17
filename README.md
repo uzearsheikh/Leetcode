@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/uzearsheikh/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/uzearsheikh/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/uzearsheikh/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/uzearsheikh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/uzearsheikh/Leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Math
