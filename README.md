@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/uzearsheikh/Leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/uzearsheikh/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/uzearsheikh/Leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Depth-First Search
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/uzearsheikh/Leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/uzearsheikh/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Breadth-First Search
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/uzearsheikh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/uzearsheikh/Leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/uzearsheikh/Leetcode/tree/master/0841-keys-and-rooms) |
 ## String Matching
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/uzearsheikh/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/uzearsheikh/Leetcode/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/uzearsheikh/Leetcode/tree/master/1046-last-stone-weight) |
 ## Combinatorics
 |  |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/uzearsheikh/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
