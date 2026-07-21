@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/uzearsheikh/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/uzearsheikh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/uzearsheikh/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/uzearsheikh/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/uzearsheikh/Leetcode/tree/master/0739-daily-temperatures) |
