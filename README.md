@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/uzearsheikh/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/uzearsheikh/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Array
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/uzearsheikh/Leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Math
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/uzearsheikh/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/uzearsheikh/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/uzearsheikh/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/uzearsheikh/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Number Theory
 |  |
 | ------- |
@@ -360,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/uzearsheikh/Leetcode/tree/master/0743-network-delay-time) |
+## Bitmask
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
