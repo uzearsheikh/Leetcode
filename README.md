@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/uzearsheikh/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/uzearsheikh/Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/uzearsheikh/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/uzearsheikh/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/uzearsheikh/Leetcode/tree/master/0290-word-pattern) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uzearsheikh/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/uzearsheikh/Leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/uzearsheikh/Leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/uzearsheikh/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uzearsheikh/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/uzearsheikh/Leetcode/tree/master/0169-majority-element) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/uzearsheikh/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/uzearsheikh/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/uzearsheikh/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/uzearsheikh/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/uzearsheikh/Leetcode/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/uzearsheikh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/uzearsheikh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uzearsheikh/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/uzearsheikh/Leetcode/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzearsheikh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/uzearsheikh/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
@@ -380,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/uzearsheikh/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
