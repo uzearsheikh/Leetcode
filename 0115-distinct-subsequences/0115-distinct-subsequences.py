@@ -10,9 +10,10 @@ class Solution:
         if s[i]==t[j]:
             take = self.rec(i+1,j+1,s,t,dp)
             skip = self.rec(i+1,j,s,t,dp)
+            dp[i][j]=take+skip
         else:
-            return self.rec(i+1,j,s,t,dp)
-        dp[i][j]=take+skip
+            dp[i][j]= self.rec(i+1,j,s,t,dp)
+        
         return dp[i][j]
     def numDistinct(self, s: str, t: str) -> int:
         dp = [[-1]*(len(t)+1) for _ in range(len(s)+1)]
