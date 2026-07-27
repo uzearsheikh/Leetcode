@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uzearsheikh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/uzearsheikh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/uzearsheikh/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/uzearsheikh/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/uzearsheikh/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/uzearsheikh/Leetcode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0125-valid-palindrome) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/uzearsheikh/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/uzearsheikh/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/uzearsheikh/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/uzearsheikh/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/uzearsheikh/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0090-subsets-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/uzearsheikh/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/uzearsheikh/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/uzearsheikh/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/uzearsheikh/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/uzearsheikh/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/uzearsheikh/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/uzearsheikh/Leetcode/tree/master/0079-word-search) |
 ## Union-Find
 |  |
 | ------- |
