@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/uzearsheikh/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/uzearsheikh/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Array
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-palindrome-partitioning-iii](https://github.com/uzearsheikh/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
 ## Math
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/uzearsheikh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/uzearsheikh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
+| [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Memoization
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/uzearsheikh/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/uzearsheikh/Leetcode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
+| [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
 ## Prefix Sum
 |  |
 | ------- |
