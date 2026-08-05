@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/uzearsheikh/Leetcode/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/uzearsheikh/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/uzearsheikh/Leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/uzearsheikh/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/uzearsheikh/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/uzearsheikh/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/uzearsheikh/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0518-coin-change-ii) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/uzearsheikh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/uzearsheikh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/uzearsheikh/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Memoization
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/uzearsheikh/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/uzearsheikh/Leetcode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/uzearsheikh/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
 | [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
 ## Prefix Sum
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/uzearsheikh/Leetcode/tree/master/0139-word-break) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/uzearsheikh/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
