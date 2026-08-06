@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/uzearsheikh/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/uzearsheikh/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/uzearsheikh/Leetcode/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzearsheikh/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -374,10 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/uzearsheikh/Leetcode/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/uzearsheikh/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/uzearsheikh/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/uzearsheikh/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
