@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/uzearsheikh/Leetcode/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzearsheikh/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/uzearsheikh/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Memoization
