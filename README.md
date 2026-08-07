@@ -433,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0494-target-sum) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/uzearsheikh/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
