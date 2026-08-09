@@ -12,7 +12,7 @@ class Solution:
             if self.ispalindrome(i, end, s):
                 ans += 1
 
-        return ans + self.rec(i + 1, s)
-
+        final_ans = ans + self.rec(i + 1, s)
+        return final_ans
     def countSubstrings(self, s: str) -> int:
         return self.rec(0, s)
