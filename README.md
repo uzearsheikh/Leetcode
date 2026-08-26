@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uzearsheikh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uzearsheikh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Stack
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uzearsheikh/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/uzearsheikh/Leetcode/tree/master/0743-network-delay-time) |
@@ -464,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/uzearsheikh/Leetcode/tree/master/0146-lru-cache) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
