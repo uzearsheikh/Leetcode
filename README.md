@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/uzearsheikh/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/uzearsheikh/Leetcode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzearsheikh/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/uzearsheikh/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/uzearsheikh/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzearsheikh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/uzearsheikh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uzearsheikh/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/uzearsheikh/Leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/uzearsheikh/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzearsheikh/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/uzearsheikh/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/uzearsheikh/Leetcode/tree/master/0202-happy-number) |
@@ -457,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/uzearsheikh/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
