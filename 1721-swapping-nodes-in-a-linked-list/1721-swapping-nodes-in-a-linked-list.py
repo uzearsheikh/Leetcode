@@ -8,9 +8,9 @@ class Solution:
         temp = head
         for i in range(1,k):
             temp = temp.next
-        length = 0
+        length = 1
         tail = head
-        while tail :
+        while tail and tail.next :
             tail = tail.next 
             length+=1
         vemp = head
