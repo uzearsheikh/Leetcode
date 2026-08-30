@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/uzearsheikh/Leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/uzearsheikh/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/uzearsheikh/Leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/uzearsheikh/Leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/uzearsheikh/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/uzearsheikh/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
