@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uzearsheikh/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/uzearsheikh/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/uzearsheikh/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/uzearsheikh/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/uzearsheikh/Leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/uzearsheikh/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/uzearsheikh/Leetcode/tree/master/0079-word-search) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/uzearsheikh/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/uzearsheikh/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/uzearsheikh/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/uzearsheikh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/uzearsheikh/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/uzearsheikh/Leetcode/tree/master/0056-merge-intervals) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/uzearsheikh/Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/uzearsheikh/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/uzearsheikh/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/uzearsheikh/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/uzearsheikh/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/uzearsheikh/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/uzearsheikh/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/uzearsheikh/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/uzearsheikh/Leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/uzearsheikh/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/uzearsheikh/Leetcode/tree/master/0139-word-break) |
