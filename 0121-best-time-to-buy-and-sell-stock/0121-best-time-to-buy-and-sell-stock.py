@@ -9,6 +9,6 @@ class Solution:
                 min_price = i
                 # profit = sell price - minprice
             profit = max(profit , i - min_price)
-
+        
         return profit
         
