@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/uzearsheikh/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/uzearsheikh/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/uzearsheikh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/uzearsheikh/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/uzearsheikh/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/uzearsheikh/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/uzearsheikh/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/uzearsheikh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0518-coin-change-ii) |
 | [0682-baseball-game](https://github.com/uzearsheikh/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/uzearsheikh/Leetcode/tree/master/0739-daily-temperatures) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/uzearsheikh/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzearsheikh/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0409-longest-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/uzearsheikh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
 ## Prefix Sum
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/uzearsheikh/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/uzearsheikh/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/uzearsheikh/Leetcode/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
