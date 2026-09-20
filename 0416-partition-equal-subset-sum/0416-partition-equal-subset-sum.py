@@ -36,3 +36,5 @@ class Solution:
         dp = [[None] * (target + 1) for _ in range(len(nums) + 1)]
 
         return self.rec(0, nums, 0, dp, target)
+
+        # yaha dp arraye me none islie liya hai qki ham baad me dp me true or false store krenge to none lena sahi rahega professional laegaga -1 bhi lenge to chalega but professinal nhi lagega
