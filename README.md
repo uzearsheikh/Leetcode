@@ -569,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uzearsheikh/Leetcode/tree/master/0020-valid-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
