@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/uzearsheikh/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1278-palindrome-partitioning-iii](https://github.com/uzearsheikh/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/uzearsheikh/Leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1278-palindrome-partitioning-iii](https://github.com/uzearsheikh/Leetcode/tree/master/1278-palindrome-partitioning-iii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/uzearsheikh/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/uzearsheikh/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2266-count-number-of-texts](https://github.com/uzearsheikh/Leetcode/tree/master/2266-count-number-of-texts) |
