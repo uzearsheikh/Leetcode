@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/uzearsheikh/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/uzearsheikh/Leetcode/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/uzearsheikh/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/uzearsheikh/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/uzearsheikh/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/uzearsheikh/Leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/uzearsheikh/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/uzearsheikh/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/uzearsheikh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/uzearsheikh/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/uzearsheikh/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Recursion
 |  |
 | ------- |
