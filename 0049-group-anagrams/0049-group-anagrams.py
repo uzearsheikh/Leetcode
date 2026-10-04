@@ -1,16 +1,13 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        freq = {}
-        for i in strs:
-            key = ''.join(sorted(i))
-            if key not in freq:
-                freq[key]=[]
-            freq[key].append(i)
-        ans = []
+    def groupAnagrams(self, strs):
+        groups = {}
 
-        for i in freq.values():
-            ans.append(i)
+        for s in strs:
+            key = ''.join(sorted(s))
 
-        return ans
+            if key not in groups:
+                groups[key] = []
 
-        
+            groups[key].append(s)
+
+        return list(groups.values())
