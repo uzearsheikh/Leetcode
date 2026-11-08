@@ -4,15 +4,17 @@ class Solution:
         l = 0
         
 
-        for i in range(n):
-            sa = set()
-            for j in range(i,n):
-                if s[j] in sa:
-                    break
-                else:
-                    sa.add(s[j])
-                    l = max(l,j-i+1)
-        return l
-            
-        
-        
+        seen = set()
+        left = 0
+        maxLen = 0
+
+        for right in range(len(s)):
+
+            while s[right] in seen:
+                seen.remove(s[left])
+                left += 1
+
+            seen.add(s[right])
+
+            maxLen = max(maxLen, right - left + 1)
+        return maxLen
