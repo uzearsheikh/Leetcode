@@ -588,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/uzearsheikh/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/uzearsheikh/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
