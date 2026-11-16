@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/uzearsheikh/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/uzearsheikh/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/uzearsheikh/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/uzearsheikh/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/uzearsheikh/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/uzearsheikh/Leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/uzearsheikh/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/uzearsheikh/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/uzearsheikh/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/uzearsheikh/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
