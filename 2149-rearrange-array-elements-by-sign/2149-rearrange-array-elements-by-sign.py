@@ -3,12 +3,13 @@ class Solution:
         n = len(nums)
         positive , negative =[],[]
         for i in nums:
-            if i > 0:
-                positive.append(i)
-            else:
+            if i<0:
                 negative.append(i)
+            else:
+                positive.append(i)
         ans = []
-        for i in range(len(positive)):
+        for i in range(len(negative)):
             ans.append(positive[i])
             ans.append(negative[i])
         return ans
+       
