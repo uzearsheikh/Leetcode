@@ -1,20 +1,14 @@
 class Solution:
-    def generateParenthesis(self, n: int) -> List[str]:
-        res = []
-        sol = []
-
-        def backtrack(open , close):
-            if len(sol) == 2*n:
-                res.append("".join(sol))
+    def generateParenthesis(self, n: int) -> list[str]:
+        result = []
+        def backtrack(s,open,close):
+            if len(s)==2*n:
+                result.append(s)
                 return
-            
             if open<n:
-                sol.append("(")
-                backtrack(open+1,close)
-                sol.pop()
-            if open>close:
-                sol.append(")")
-                backtrack(open,close+1)
-                sol.pop()
-        backtrack(0,0)
-        return res
+                backtrack(s+"(",open+1,close)
+            if close<open:
+                backtrack(s+")",open,close+1)
+        backtrack("",0,0)
+        return result    
+        
